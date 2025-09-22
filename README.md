@@ -46,11 +46,13 @@ In my free time, I work on side projects like creating a programming language an
 
 ###
 
+
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Varadraj75&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadraj75&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=5" height="220" alt="GitHub Streak Stats" />
 </div>
+
 
 ###
 
