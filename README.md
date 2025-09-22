@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouzab/maurodesouzab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Varadraj75/Varadraj75/refs/heads/main/snake.yml" alt="Snake animation" />
 
 ###
