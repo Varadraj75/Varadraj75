@@ -25,6 +25,7 @@
 I'm Varad Raj Agrawal from India.<br><br>
 I’m working as a <b>Business Development Intern at TrainaXR</b> and building my own tech projects.<br><br>
 Currently learning <b>Full-Stack Development, Java, Python</b> and exploring programming language design.<br><br>
+I actively contribute to <b>open-source projects</b> and participated in <b>Hacktoberfest</b>, where I successfully completed the challenge and received the official T-shirt.<br><br>
 In my free time, I work on side projects like creating a programming language and developing a focused study website.
 </p>
 
