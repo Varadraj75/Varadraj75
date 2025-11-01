@@ -46,13 +46,22 @@ In my free time, I work on side projects like creating a programming language an
 
 ###
 
-
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadraj75&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=5" height="220" alt="GitHub Streak Stats" />
+  <!-- Main stats card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadraj75&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=5" height="220" alt="GitHub Streak Stats" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=Varadraj75&show_icons=true&theme=dark';" />
 </div>
 
+###
+
+<h3 align="left">🏅 Holopin Badges</h3>
+
+<div align="center">
+  <a href="https://holopin.me/varadraj75" target="_blank">
+    <img src="https://holopin.me/varadraj75" alt="Holopin Badges" width="90%" />
+  </a>
+</div>
 
 ###
 
