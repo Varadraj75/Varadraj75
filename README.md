@@ -22,12 +22,13 @@ A clean, modern, **premium dark-theme GitHub profile** designed for developers w
 ##  About Me
 
 I'm **Varad Raj Agrawal**, a developer passionate about building meaningful products.
-
-✔ Completed **Business Development Internship at TrainaXR**
-✔ Learning **Full-Stack Dev, Java, Python & Systems**
-✔ Passionate about **DevOps, AI/ML & Programming Language Design**
-✔ Completed **Hacktoberfest** & contributed to open-source
-✔ Love building side-projects, tools, and utilities
+<ul>
+<li> Completed **Business Development Internship at TrainaXR** </li>
+<li> Learning **Full-Stack Dev, Java, Python & Systems** </li>
+<li> Passionate about **DevOps, AI/ML & Programming Language Design** </li>
+<li> Completed **Hacktoberfest** & contributed to open-source </li>
+<li> Love building side-projects, tools, and utilities </li>
+</ul>
 
 ---
 
@@ -42,7 +43,8 @@ AI + IoT platform for crop recommendation, disease prediction & soil analytics.<
 ###  EcoVisionAI – Waste Detection System *(Vibeathon Hackathon)*
 
 **Repo:** [https://github.com/Varadraj75/EcoVisionAI](https://github.com/Varadraj75/EcoVisionAI)
-Deep-learning powered waste classification & detection for sustainability.
+<div>
+Deep-learning powered waste classification & detection for sustainability.</div>
 
 ---
 
