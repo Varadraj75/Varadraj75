@@ -1,4 +1,4 @@
- 🌙 Varad Raj Agrawal — Developer
+ <h1> Varad Raj Agrawal — Developer </h1>
 
 A clean, modern, **premium dark-theme GitHub profile** designed for developers who want a strong first impression.
 
