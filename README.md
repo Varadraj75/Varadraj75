@@ -36,7 +36,8 @@ I'm **Varad Raj Agrawal**, a developer passionate about building meaningful prod
 ###  CropSense – Smart Farming System *(SIH Hackathon)*
 
 **Repo:** [https://github.com/Varadraj75/Crop_Sense](https://github.com/Varadraj75/Crop_Sense)
-AI + IoT platform for crop recommendation, disease prediction & soil analytics.
+<div>
+AI + IoT platform for crop recommendation, disease prediction & soil analytics.</div>
 
 ###  EcoVisionAI – Waste Detection System *(Vibeathon Hackathon)*
 
