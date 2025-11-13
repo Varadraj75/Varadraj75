@@ -1,5 +1,4 @@
  <h1> Varad Raj Agrawal — Developer </h1>
----
 
 <div align="center">
   <img height="170" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
@@ -88,5 +87,3 @@ Deep-learning powered waste classification & detection for sustainability.</div>
 </div>
 
 ---
-
-### ⭐ Like my work? Star the repos you enjoy!
