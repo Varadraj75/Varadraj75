@@ -1,7 +1,4 @@
  <h1> Varad Raj Agrawal — Developer </h1>
-
-A clean, modern, **premium dark-theme GitHub profile** designed for developers who want a strong first impression.
-
 ---
 
 <div align="center">
@@ -23,10 +20,10 @@ A clean, modern, **premium dark-theme GitHub profile** designed for developers w
 
 I'm **Varad Raj Agrawal**, a developer passionate about building meaningful products.
 <ul>
-<li> Completed **Business Development Internship at TrainaXR** </li>
-<li> Learning **Full-Stack Dev, Java, Python & Systems** </li>
-<li> Passionate about **DevOps, AI/ML & Programming Language Design** </li>
-<li> Completed **Hacktoberfest** & contributed to open-source </li>
+<li> Completed Business Development Internship at TrainaXR </li>
+<li> Learning Full-Stack Dev, Java, Python & Systems </li>
+<li> Passionate about DevOps, AI/ML & Programming Language Design </li>
+<li> Completed Hacktoberfest & contributed to open-source </li>
 <li> Love building side-projects, tools, and utilities </li>
 </ul>
 
