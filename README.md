@@ -42,6 +42,11 @@ AI + IoT platform for crop recommendation, disease prediction & soil analytics.<
 <div>
 Deep-learning powered waste classification & detection for sustainability.</div>
 
+### Carbon-Footprint-Calculator
+
+**Repo:** [https://github.com/Varadraj75/Carbon-Footprint-Calculator](https://github.com/Varadraj75/Carbon-Footprint-Calculator)
+<div>
+ Estimate the carbon footprint of a user’s daily activities (commute, food, electricity use) and visualize it over time. </div>
 ---
 
 ##  Languages & Tools
