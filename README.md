@@ -48,6 +48,7 @@ Deep-learning powered waste classification & detection for sustainability.</div>
 <div>
  Estimate the carbon footprint of a user’s daily activities (commute, food, electricity use) and visualize it over time. </div>
 
+---
 ##  Languages & Tools
 
 <div align="center">
