@@ -47,7 +47,6 @@ Deep-learning powered waste classification & detection for sustainability.</div>
 **Repo:** [https://github.com/Varadraj75/Carbon-Footprint-Calculator](https://github.com/Varadraj75/Carbon-Footprint-Calculator)
 <div>
  Estimate the carbon footprint of a user’s daily activities (commute, food, electricity use) and visualize it over time. </div>
----
 
 ##  Languages & Tools
 
