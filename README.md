@@ -69,7 +69,7 @@ Deep-learning powered waste classification & detection for sustainability.</div>
 
 ---
 
-##  GitHub Stats (Dark Premium Style)
+##  GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadraj75&theme=dark&hide_border=false&border_radius=5" height="220" />
