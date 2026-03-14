@@ -93,7 +93,10 @@ Tool to estimate and visualize carbon footprint based on daily activities such a
 - Python  
 - Go  
 - Kotlin  
-- Dart  
+- Dart
+- C
+- C++
+- Rust
 
 ### Web & Application Development
 - HTML5  
