@@ -1,5 +1,5 @@
 <h1 align="center">Varad Raj Agrawal</h1>
-<h3 align="center">Open Source Contributor | Developer | Systems & DevOps Enthusiast</h3>
+<h3 align="center">Open source contributor. Systems-curious.</h3>
 
 <div align="center">
   <img height="180" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
@@ -16,118 +16,27 @@
 
 ---
 
-## About Me
-
-I am **Varad Raj Agrawal**, a developer focused on **open-source contribution, system-level understanding, and scalable software engineering**.
-
-- Open-source contributor with Hacktoberfest experience  
-- Contributor to the **AsyncAPI** open-source ecosystem  
-- Completed Business Development Internship at TrainaXR  
-- Actively learning Full-Stack Development, Java, Python, and Core Systems  
-- Strong interest in DevOps, AI/ML, and Programming Language Design  
-- Long-term goal: meaningful participation in **Google Summer of Code**
-
----
-
-## Open Source Contributions
-
-### AsyncAPI CLI
-Repository (Fork): https://github.com/Varadraj75/cli  
-
-- Contributed to the official AsyncAPI CLI used for validating and processing AsyncAPI documents  
-- Identified and fixed issues related to schema handling and command execution flows  
-- Submitted pull requests that were reviewed and **merged into the upstream project**  
-- Gained experience working with production-grade CLI tooling and maintainer-driven review processes  
-
----
-
-### AsyncAPI Modelina
-Repository (Fork): https://github.com/Varadraj75/modelina  
-
-- Contributed to Modelina, AsyncAPI’s code generation library for producing models in multiple languages  
-- Worked on improving model generation logic and handling of complex schema structures  
-- Submitted pull requests that were **successfully merged upstream**  
-- Strengthened understanding of code generation pipelines and specification-driven development  
-
----
-
-### Open Source Experience Summary
-
-- Active contributor to large, real-world open-source projects  
-- Comfortable navigating and modifying unfamiliar, production-grade codebases  
-- Experienced with GitHub workflows including issues, pull requests, reviews, and rebasing  
-- Focused on maintainability, correctness, and long-term contribution value  
-
----
-
-## Projects
-
-### FocusWebsite
-Repository: https://github.com/Varadraj75/FocusWebsite  
-
-A productivity-focused web application designed to help users minimize distractions and improve focus.  
-Built with an emphasis on clean UI, structured workflows, and practical usability.
-
----
-
-### EcoVisionAI – Waste Detection System (Vibeathon Hackathon)
-Repository: https://github.com/Varadraj75/EcoVisionAI  
-
-Deep learning based waste detection and classification system aimed at sustainability-focused applications.
-
----
-
-### Carbon Footprint Calculator
-Repository: https://github.com/Varadraj75/Carbon-Footprint-Calculator  
-
-Tool to estimate and visualize carbon footprint based on daily activities such as transportation, food consumption, and electricity usage.
-
----
-
-## Technical Skills
+I write code and contribute to open source. I care more about understanding what I'm building than collecting frameworks. Most of what I learn comes from PR reviews by people who know more than I do.
 
 ### Languages
-- JavaScript  
-- TypeScript  
-- Java  
-- Python  
-- Go  
-- Kotlin  
-- Dart
-- C
-- C++
-- Rust
+C, C++, Rust, Go, Java, Python, JavaScript, TypeScript, Kotlin, Dart
 
-### Web & Application Development
-- HTML5  
-- CSS3  
-- JavaScript / TypeScript  
-- Flutter  
+### Frontend
+React, Next.js, Tailwind CSS, Flutter (mobile)
 
-### API & Specification Technologies
-- AsyncAPI  
-- RAML  
-- Schema-based API design and validation  
+### Backend
+Node.js, Express, MongoDB, MERN stack, Supabase, REST APIs
 
-### DevOps & Tooling
-- Docker  
-- Git and GitHub  
-- CLI-based development workflows  
+### AI / ML
+TensorFlow, PyTorch, scikit-learn, TFLite, LLM APIs (OpenAI, Gemini)
 
-### Currently Exploring
-- Backend architecture and API design  
-- DevOps fundamentals and containerization  
-- System design principles  
-- Open-source tooling and contributor workflows  
+### Tools
+Docker, Kubernetes, Git, Linux
 
-### Past Experience / Exposure
-- Worked with hackathon-scale and prototype codebases  
-- Exposure to machine learning workflows and model integration  
-- Experience collaborating in fast-paced, deadline-driven environments  
+### Going deeper on
+Backend architecture, system design, container internals, AI / ML, low-level fundamentals
 
 ---
-
-## Open Source Recognition
 
 <div align="center">
   <a href="https://holopin.me/varadraj75" target="_blank">
@@ -135,12 +44,6 @@ Tool to estimate and visualize carbon footprint based on daily activities such a
   </a>
 </div>
 
----
-
-## Contribution Activity
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Varadraj75/Varadraj75/output/snake.svg" />
 </div>
-
----
