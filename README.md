@@ -47,3 +47,5 @@ Backend architecture, system design, container internals, AI / ML, low-level fun
 <div align="center">
   <img src="https://raw.githubusercontent.com/Varadraj75/Varadraj75/output/snake.svg" />
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76505de6-f6e6-4cf3-905a-5db38069384e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
